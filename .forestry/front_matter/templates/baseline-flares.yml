@@ -1,12 +1,7 @@
 ---
 label: Baseline Flares
 hide_body: false
-fields:
-- name: text
-  type: text
-  config:
-    required: false
-  label: Text
+fields: []
 pages:
 - articles/Baseline.md
 - articles/Test.md
