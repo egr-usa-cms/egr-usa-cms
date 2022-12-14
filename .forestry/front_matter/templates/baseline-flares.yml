@@ -5,7 +5,9 @@ fields:
 - name: test
   type: blocks
   label: test
-  template_types: []
+  template_types:
+  - article
+  - baseline-flares
   config:
     min: 
     max: 
