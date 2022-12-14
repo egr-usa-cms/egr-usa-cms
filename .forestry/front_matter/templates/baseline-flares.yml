@@ -9,3 +9,4 @@ fields:
   label: Text
 pages:
 - articles/Baseline.md
+- articles/Test.md
