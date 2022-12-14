@@ -1,7 +1,14 @@
 ---
 label: Baseline Flares
 hide_body: false
-fields: []
+fields:
+- name: test
+  type: blocks
+  label: test
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - articles/Baseline.md
 - articles/Test.md
