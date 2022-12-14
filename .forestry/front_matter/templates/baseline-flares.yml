@@ -9,6 +9,16 @@ fields:
   config:
     min: 
     max: 
+- name: a
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: a
+  description: a
 pages:
 - articles/Baseline.md
 - articles/Test.md
